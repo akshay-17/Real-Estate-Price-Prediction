@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dd0754b-5b6c-47ae-879f-ad3e2d5e7daf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b4Jh7lHESr0jD69euOAY69Da9l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.server">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Real Estate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Server/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Real Estate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Server/util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dd0754b-5b6c-47ae-879f-ad3e2d5e7daf" name="Default Changelist" comment="" />
+      <created>1587885548724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587885548724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587895528250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587895528250" />
+    <state x="456" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587966098065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="456" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1587966098065" />
+    <state x="271" y="167" key="FileChooserDialogImpl" timestamp="1588354201430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="271" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588354201430" />
+    <state width="758" height="203" key="GridCell.Tab.0.bottom" timestamp="1589439122681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="758" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589439122681" />
+    <state width="758" height="203" key="GridCell.Tab.0.center" timestamp="1589439122677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="758" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589439122677" />
+    <state width="758" height="203" key="GridCell.Tab.0.left" timestamp="1589439122677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="758" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589439122677" />
+    <state width="758" height="203" key="GridCell.Tab.0.right" timestamp="1589439122681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="758" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589439122681" />
+    <state width="1515" height="260" key="GridCell.Tab.1.bottom" timestamp="1588850940762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588850940762" />
+    <state width="1515" height="260" key="GridCell.Tab.1.center" timestamp="1588850940762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588850940762" />
+    <state width="1515" height="260" key="GridCell.Tab.1.left" timestamp="1588850940762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588850940762" />
+    <state width="1515" height="260" key="GridCell.Tab.1.right" timestamp="1588850940762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588850940762" />
+    <state x="0" y="55" key="SettingsEditor" timestamp="1587885876736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587885876736" />
+  </component>
+</project>
